@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"NewAisiki.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"NewAisiki.sol": {
+			"keccak256": "0x98f3f0ef4bd5b17ae54c56dd13000af951608949fdcd6b76fb9c66c0455b645f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://90a4404dcda14c12bb3da9161786bbcdaacbc37b8e04c86a90b258b2b6d90022",
+				"dweb:/ipfs/QmTgG2mWtmW3GRJ4MJvrTgkAdt3c48YwPYHmsogQiCGTQs"
+			]
+		}
+	},
+	"version": 1
+}
